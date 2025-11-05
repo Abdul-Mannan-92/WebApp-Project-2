@@ -1,7 +1,7 @@
 # WebApp Project 2
 
 A **full-stack web application** built using **Angular** for the frontend and **Node.js/Express** for the backend.  
-This project demonstrates modular architecture, RESTful API integration, and modern frontend development practices with Angular CLI.
+This project demonstrates modular architecture, RESTful API integration, and modern frontend development practices with Angular CLI. 
 
 ---
 
